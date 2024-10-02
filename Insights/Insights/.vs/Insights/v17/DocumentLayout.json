@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarmi\\Downloads\\Insights 4\\Insights\\Insights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EF2A5E-32FE-47B2-B216-53BA1EA11E29}|Insights\\Insights.csproj|C:\\Users\\tarmi\\Downloads\\Insights 4\\Insights\\Insights\\insights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF2A5E-32FE-47B2-B216-53BA1EA11E29}|Insights\\Insights.csproj|solutionrelative:insights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EF2A5E-32FE-47B2-B216-53BA1EA11E29}|Insights\\Insights.csproj|c:\\users\\tarmi\\downloads\\insights 4\\insights\\insights\\insights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EF2A5E-32FE-47B2-B216-53BA1EA11E29}|Insights\\Insights.csproj|solutionrelative:insights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tarmi\\Downloads\\Insights 4\\Insights\\Insights\\Insights\\Form1.cs",
+              "RelativeDocumentMoniker": "Insights\\Form1.cs",
+              "ToolTip": "C:\\Users\\tarmi\\Downloads\\Insights 4\\Insights\\Insights\\Insights\\Form1.cs",
+              "RelativeToolTip": "Insights\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:33:40.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tarmi\\Downloads\\Insights 4\\Insights\\Insights\\Insights\\Form1.cs",
+              "RelativeDocumentMoniker": "Insights\\Form1.cs",
+              "ToolTip": "C:\\Users\\tarmi\\Downloads\\Insights 4\\Insights\\Insights\\Insights\\Form1.cs [Design]",
+              "RelativeToolTip": "Insights\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:26:52.431Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

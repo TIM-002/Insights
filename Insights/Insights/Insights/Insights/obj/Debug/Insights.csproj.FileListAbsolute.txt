@@ -1,0 +1,36 @@
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\bin\Debug\Insights.exe.config
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\bin\Debug\Insights.exe
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\bin\Debug\Insights.pdb
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.csproj.AssemblyReference.cache
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.insights.resources
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.Properties.Resources.resources
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.csproj.GenerateResource.cache
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.csproj.CoreCompileInputs.cache
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.exe
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\obj\Debug\Insights.pdb
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\bin\Debug\insightsData.mdf
+C:\Users\tarmi\Desktop\Visual Studio\VS\Insights\Insights\bin\Debug\insightsData_log.ldf
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\bin\Debug\insightsData.mdf
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\bin\Debug\insightsData_log.ldf
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\bin\Debug\Insights.exe.config
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\bin\Debug\Insights.exe
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\bin\Debug\Insights.pdb
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.csproj.AssemblyReference.cache
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.insights.resources
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.Properties.Resources.resources
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.csproj.GenerateResource.cache
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.csproj.CoreCompileInputs.cache
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.exe
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\obj\Debug\Insights.pdb
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\bin\Debug\insightsData.mdf
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\bin\Debug\insightsData_log.ldf
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\bin\Debug\Insights.exe.config
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\bin\Debug\Insights.exe
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\bin\Debug\Insights.pdb
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.csproj.AssemblyReference.cache
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.insights.resources
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.Properties.Resources.resources
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.csproj.GenerateResource.cache
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.csproj.CoreCompileInputs.cache
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.exe
+C:\Users\tarmi\Downloads\Insights\Insights\Insights\Insights\obj\Debug\Insights.pdb
